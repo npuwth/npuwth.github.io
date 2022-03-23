@@ -4,6 +4,7 @@ theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
 publishDir = "docs"
+baseURL = "https://npuwth.github.io/"
 # pygmentsCodefences = true
 # pygmentsUseClasses = true
 # googleAnalytics = "{your tracking code}"
