@@ -50,7 +50,7 @@ baseURL = "https://npuwth.github.io/"
     identifier = "github"
     # name = "GitHub"
     pre = "<i class='fab fa-github fa-lg'></i>"
-    url = "https://github.com/username"
+    url = "https://github.com/npuwth"
     weight = 30
 
 [[menu.main]]
