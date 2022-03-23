@@ -1,10 +1,9 @@
-baseurl = "https://example.com/"
 title = "Site Title"
 theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
 publishDir = "docs"
-baseURL = "https://npuwth.github.io/"
+baseurl = "https://npuwth.github.io/"
 # pygmentsCodefences = true
 # pygmentsUseClasses = true
 # googleAnalytics = "{your tracking code}"
