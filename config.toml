@@ -55,5 +55,5 @@ baseurl = "https://npuwth.github.io/"
     identifier = "email"
     # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
-    url = "weitianhao@mail.nwpu.edu.cn"
+    url = "mailto:weitianhao@mail.nwpu.edu.cn"
     weight = 40
