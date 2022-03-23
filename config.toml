@@ -1,4 +1,4 @@
-title = "Site Title"
+title = "Tianhao Wei's Personal Page"
 theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
@@ -12,15 +12,14 @@ baseurl = "https://npuwth.github.io/"
     unsafe = true # Allow user HTML tags
 
 [params]
-    author = "Your Name"
+    author = "魏天昊"
     avatar = "avatar.jpg"
     # avatarDescription = "My avatar description"
     favicon = "favicon.ico"
     description = """
-        Please write anything here.
-        Profiles, backgrounds, favorite things etc.
+        我是魏天昊，来自西北工业大学，计算机科学与技术专业。
     """
-    publicationYear = "2019"
+    publicationYear = "2022"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
     # singlePageDateFormat = "January 2, 2006"
     # custom_css = ["/css/custom.css"]
@@ -56,5 +55,5 @@ baseurl = "https://npuwth.github.io/"
     identifier = "email"
     # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
-    url = "mailto:username@example.com"
+    url = "weitianhao@mail.nwpu.edu.cn"
     weight = 40
