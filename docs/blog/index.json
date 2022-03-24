@@ -1,6 +1,6 @@
 [
     {
-        "ref": "https://npuwth.github.io/blog/markdown-syntax/",
+        "ref": "https://tianhaowei.space/blog/markdown-syntax/",
         "title": "Markdown Syntax Guide",
         "section": "blog",
         "tags": ["markdown","css","html","themes"],
@@ -9,7 +9,7 @@
     }
 ,
     {
-        "ref": "https://npuwth.github.io/blog/placeholder-text/",
+        "ref": "https://tianhaowei.space/blog/placeholder-text/",
         "title": "Placeholder Text",
         "section": "blog",
         "tags": ["markdown","text"],
@@ -18,7 +18,7 @@
     }
 ,
     {
-        "ref": "https://npuwth.github.io/blog/math-typesetting/",
+        "ref": "https://tianhaowei.space/blog/math-typesetting/",
         "title": "Math Typesetting",
         "section": "blog",
         "tags": null,
@@ -27,7 +27,7 @@
     }
 ,
     {
-        "ref": "https://npuwth.github.io/blog/emoji-support/",
+        "ref": "https://tianhaowei.space/blog/emoji-support/",
         "title": "Emoji Support",
         "section": "blog",
         "tags": ["emoji"],
